@@ -7,6 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Next.js Starter!</title>
+        <meta name="google-site-verification" content="o-jpf0I1MOTrGXNn_vSY8JeWZqAYDk0r8v95lYvmDUc" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
